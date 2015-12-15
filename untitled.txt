@@ -1,0 +1,3 @@
+The first figure has too many colors and too many lines, which makes it difficult to make sense of the individual lines. When encoding data as position a larger space between positions makes it difficult to get the correct value from a graph. The graph also makes it hard to compare data for a single year and we do not think that comparing months year over year is a useful way to show weather data.
+
+The structure and layout of the page is nicely done and the table of contents makes it easy to navigate on the page.

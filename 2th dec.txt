@@ -1,0 +1,13 @@
+Would it be relevant to give the participants a wider timeframe in relation to determining information from the elementary perceptual tasks on the lower end of the list on page 536? - Troels
+
+It this paper relevant today? - Jan, Jenny, Andreas (how is this paper relevant today?), Peter Holst, Sofia
+
+Has this paper's results changed the way we choose common visualizations of data today? I would say that bar charts and pie charts still are used where dot charts could be applicable. Does the industry just not consult the science in the area? - Petur Andrias, Troels
+
+The authors identify a set of 10 elementary perceptual tasks. Naming them 10 elementary perceptual tasks is a bit misleading, as the authors state in the conclusion, since the tasks are not necessarily independent, but they might be a complex set of (cognitive) tasks. The authors suggest (p. 553) that the set on 10 elementary perceptual tasks could also be called elementary graphical encodings, which in my opinion would be more accurate description of the matter the paper discusses, and not stepping into a complex domain of cognitive psychology (of perception). - Mikko
+
+Color and new technology - Andreas, Aleksander
+
+Validity (Participants removed) - Casper, Peter
+
+How does a new field of science evolve? This paper was dilligent in stating that it was describing field theory that it partly got from existing psychophysics as well as common reasoning and set forth concepts that were brand new, and then tested for their validity. How do you go about comtemplating sound initial theory? - Petur
