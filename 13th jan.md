@@ -24,6 +24,20 @@
 
 *	The paper is a review of current models for explaining CSCW, and a proposal for a new model the is better at explaining complex work situations.
 
-*	The paper argue that the Matrix Model was not designed for explaining large and complex work structures, which is why they propes a new model.
+*	The paper argue that the Matrix Model was not designed for explaining large and complex work structures, which is why they propose a new model.
 
-*	
+*	The new model consists of seven dimensions (Synchronicity, Physical Distribution, Scale, Number of Communities of Pracice, Nascence, Planned Permanence, and Turnover). This framework is proposed as a common framework for all works in CSCW.
+
+*	It is argued that the framework should make it possible to compare eg. the use of a waterproof tablet in medicin and at home.
+
+*	The model is used two exmaples to illustrate how it works.
+
+*	It is concluded that CSCW is a design field, and that it suffers from lack of understanding very large and complex sociotechnical systems, it is futher concluded that even if this model will never be used broadly, a new model is need to put into HCI textbooks.
+
+### Questions ###
+
+*	The conclusion notes that CSCW should not be turned in to a pure social science, but they seem to be comparable even at a very low level, how do they differ?
+
+*	Why has the Matrix model been used (Wrongly according to the paper) for so many years?
+
+*	There are no emperical studies done to prove that MoCA works, is this a problem? And should such studies be done before the model is released "in to the wild"?
